@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Zain.
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning MERN Stack development.
-- 💞️ I’m looking to collaborate on on every kind of work.
+- 💞️ I’m looking to collaborate on every kind of work.
 - 📫 How to reach me developer.m.zain@gmail.com
 
 <!---
